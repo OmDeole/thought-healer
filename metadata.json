@@ -1,0 +1,6 @@
+{
+  "name": "ThoughtHealer",
+  "description": "A serene, Apple-inspired wellness and mindfulness platform offering evidence-based cognitive therapy, certified therapist matching, and calm digital health tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
